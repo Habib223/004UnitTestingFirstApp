@@ -11,5 +11,10 @@ public class Calculator {
 	public Integer mul(int a,int b) {
 		return a*b;
 	}
-
+         
+        //HIS-200 related changes
+         public doprocess(){
+           
+              //logic write here
+          }
 }
