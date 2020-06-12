@@ -1,8 +1,11 @@
 package com.app.calculator;
 
 public class Calculator {
-	
 	int x,y;
+  
+  
+	int z,t;
+  
 	public Integer add(int a,int b)
 	{
 		return a+b;
